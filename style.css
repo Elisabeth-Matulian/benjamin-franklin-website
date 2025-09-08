@@ -1,0 +1,45 @@
+*{
+  background-color: AntiqueWhite;
+  color: rgb(0, 0, 128);
+  font-family: Georgia;
+  text-align: center;
+  font-size: 35px;
+}
+
+h2{
+  font-size: 26px;
+  text-align: left;
+  padding-top: 30px;
+}
+.sub_header{
+  text-align: center;
+}
+p, li{
+  font-family: Arial;
+  color: #474747;
+  font-size: 16px;
+  text-align: left;
+  padding-left: 20px;
+}
+.portrait{
+  width: 300px;
+  display: block;}
+
+.portrait_cnt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  padding-left: 20px;
+}
+.img_stamp {
+  width: 170px;
+}
+.img_books{
+  height: 200px
+}
+.container_legacy {
+  width: 60%;
+}
